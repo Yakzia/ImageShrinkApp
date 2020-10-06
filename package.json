@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/Yakzia/ImageShrinkApp#readme",
   "devDependencies": {
-    "electron": "^9.0.5",
+    "electron": "^9.3.1",
     "electron-packager": "^15.0.0",
     "nodemon": "^2.0.4"
   },
